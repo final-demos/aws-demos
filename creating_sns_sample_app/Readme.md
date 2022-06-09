@@ -1,3 +1,5 @@
+set AWS_ACCESS_KEY_ID=
+set AWS_SECRET_ACCESS_KEY=
 # Creating a publish/subscription web application that translates messages
 
 ## Overview
